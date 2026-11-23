@@ -1,3 +1,9 @@
+
+
+https://github.com/user-attachments/assets/a1c30cf9-63fa-473d-a2b5-86beaf7002a9
+
+
+
 # Solar Sprint — 3D Racing Game Showcase
 
 > **Note:** This is a public showcase repository for an indie 3D racing game currently in active development with a planned commercial release on Steam. The source code is kept private.
@@ -8,6 +14,7 @@ A 3D arcade/physics racing game built in **Unity (C#)** where race tracks wrap s
 
 ## Gameplay Demo
 
+https://github.com/user-attachments/assets/f85a5987-cea6-46e8-b5b2-5b8bef23a504
 
 ## Technical Highlights
 
