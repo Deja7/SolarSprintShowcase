@@ -1,9 +1,3 @@
-
-
-https://github.com/user-attachments/assets/a1c30cf9-63fa-473d-a2b5-86beaf7002a9
-
-
-
 # Solar Sprint — 3D Racing Game Showcase
 
 > **Note:** This is a public showcase repository for an indie 3D racing game currently in active development with a planned commercial release on Steam. The source code is kept private.
