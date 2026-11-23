@@ -1,4 +1,4 @@
-# [Nazwa Gry / Planetary Racing] — 3D Racing Game Showcase
+# Solar Sprint — 3D Racing Game Showcase
 
 > **Note:** This is a public showcase repository for an indie 3D racing game currently in active development with a planned commercial release on Steam. The source code is kept private.
 
@@ -8,7 +8,6 @@ A 3D arcade/physics racing game built in **Unity (C#)** where race tracks wrap s
 
 ## Gameplay Demo
 
-[Gameplay Demo](v1.mp4) 
 
 ## Technical Highlights
 
@@ -21,7 +20,7 @@ A 3D arcade/physics racing game built in **Unity (C#)** where race tracks wrap s
 
 * **Engine:** Unity
 * **Language:** C#
-* **Graphics:** HLSL, Unity Shader Graphs
+* **Graphics:** HLSL, Unity Shader Graph
 * **Core Concepts:** Procedural mesh generation, Bézier curves, 3D vector math, custom car physics
 
 ## Screenshots
